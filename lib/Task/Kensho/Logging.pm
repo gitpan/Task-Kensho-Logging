@@ -4,8 +4,8 @@ package Task::Kensho::Logging;
 BEGIN {
   $Task::Kensho::Logging::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34-TRIAL-40-g6e08b13
-$Task::Kensho::Logging::VERSION = '0.34001'; # TRIAL
+# git description: v0.34001-TRIAL-14-ge6e8a53
+$Task::Kensho::Logging::VERSION = '0.34002'; # TRIAL
 # ABSTRACT: Logging
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Logging - Logging
 
 =head1 VERSION
 
-version 0.34001
+version 0.34002
 
 =head1 SYNOPSIS
 
