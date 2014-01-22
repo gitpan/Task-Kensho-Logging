@@ -4,7 +4,7 @@ Task::Kensho::Logging - A Glimpse at an Enlightened Perl: Logging
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 
