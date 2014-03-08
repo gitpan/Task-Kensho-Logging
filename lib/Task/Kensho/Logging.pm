@@ -4,8 +4,8 @@ package Task::Kensho::Logging;
 BEGIN {
   $Task::Kensho::Logging::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34004-TRIAL-28-ge45d4aa
-$Task::Kensho::Logging::VERSION = '0.35';
+# git description: v0.35-31-gf07eda7
+$Task::Kensho::Logging::VERSION = '0.36';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Logging
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Logging - A Glimpse at an Enlightened Perl: Logging
 
 =head1 VERSION
 
-version 0.35
+version 0.36
 
 =head1 SYNOPSIS
 
@@ -42,7 +42,7 @@ subject and object."[3]
 
 =back
 
-L<Task::Kensho> is a first cut at building a list of recommended modules
+L<Task::Kensho> is a list of recommended modules
 for Enlightened Perl development. CPAN is wonderful, but there are too
 many wheels and you have to pick and choose amongst the various
 competing technologies.
@@ -91,7 +91,7 @@ regarding which modules you wish to install.
 
 The C<cpanm> client requires interactive mode to be enabled for this to work:
 
-    cpanm --interactive Task-Kensho
+    cpanm --interactive Task::Kensho::Logging
 
 =head1 BUGS AND LIMITATIONS
 
