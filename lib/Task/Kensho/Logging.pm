@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Logging;
-# git description: v0.36-28-gdad67ea
-$Task::Kensho::Logging::VERSION = '0.37';
+# git description: v0.37-30-g1092dac
+$Task::Kensho::Logging::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Logging
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::Logging - A Glimpse at an Enlightened Perl: Logging
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
